@@ -1,8 +1,18 @@
 .header {
-  font-family: "Raleway", Helvetica, Arial, sans-serif
+  font-family: Courier;
+}
+
+p {
+  font-family: Baskerville;
+  font-size: 20px;
+}
+
+code {
+  font-family: "SF Mono";
 }
 
 a {
+  font-family: Courier;
   color: #3b8bba;
   text-decoration: none;
 }
@@ -48,7 +58,7 @@ article > footer {
 }
 
 #menu .brand {
-  font-family: Raleway;
+  font-family: Courier;
   font-weight: bold;
   font-size: 1em;
   letter-spacing: 0.1em;
